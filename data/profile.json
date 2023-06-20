@@ -10,19 +10,19 @@
     
       {
         "name": "Html",
-        "logo": "https://github.com/brandaomichel/js-developer-portfilio/blob/main/data/imgs/html.png"
+        "logo": "https://github.com/brandaomichel/js-developer-portfolio/blob/main/data/imgs/html.png"
       },
       {
         "name": "Css",
-        "logo": "https://github.com/brandaomichel/js-developer-portfilio/blob/main/data/imgs/css.png"
+        "logo": "https://github.com/brandaomichel/js-developer-portfolio/blob/main/data/imgs/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/brandaomichel/js-developer-portfilio/blob/main/data/imgs/js.png"
+        "logo": "https://github.com/brandaomichel/js-developer-portfolio/blob/main/data/imgs/js.png"
       },
       {
         "name": "Python",
-        "logo": "https://github.com/brandaomichel/js-developer-portfilio/blob/main/data/imgs/python.png"
+        "logo": "https://github.com/brandaomichel/js-developer-portfolio/blob/main/data/imgs/python.png"
       }
     ],
     "softSkills": [
