@@ -1,7 +1,7 @@
 {
   "name": "Michel G Brandão",
   "photo": "https://avatars.githubusercontent.com/u/120728427?v=4",
-  "job": "Analista TI",
+  "job": "Analista de TI",
   "location": "Passa Quatro - MG",
   "phone": "(35) 99138-3765 ",
   "email": "michelgbo@gmail.com",
@@ -26,7 +26,7 @@
       }
     ],
     "softSkills": [
-      "Empatia",
+      "Desempenho",
       "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
@@ -40,7 +40,7 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "name": "Constuindo uma Pokedex",
       "url": "https://github.com/RenanJPaula/js-developer-pokedex",
       "github": true
     }
@@ -48,7 +48,7 @@
   ],
   "professionalExperience": [
     {
-      "name": "Analist de TI",
+      "name": "Analista de TI - Luck Way Informática",
       "period": "2012 - até o momento",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     }
