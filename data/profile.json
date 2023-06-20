@@ -10,11 +10,11 @@
     
       {
         "name": "html",
-        "logo": "https://github.com/brandaomichel/js-developer-portfolio/blob/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/brandaomichel/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "css",
-        "logo": "https://github.com/brandaomichel/js-developer-portfolio/blob/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/brandaomichel/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "js",
@@ -22,7 +22,7 @@
       },
       {
         "name": "python",
-        "logo": "https://github.com/brandaomichel/js-developer-portfolio/blob/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/brandaomichel/js-developer-portfolio/main/data/imgs/python.png"
       }
     ],
     "softSkills": [
